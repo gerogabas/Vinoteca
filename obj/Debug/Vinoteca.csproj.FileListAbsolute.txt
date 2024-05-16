@@ -1,0 +1,13 @@
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\obj\Debug\Vinoteca.csproj.AssemblyReference.cache
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\obj\Debug\Vinoteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\obj\Debug\Vinoteca.Form1.resources
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\obj\Debug\Vinoteca.Form2.resources
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\obj\Debug\Vinoteca.MDIParent1.resources
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\obj\Debug\Vinoteca.Properties.Resources.resources
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\obj\Debug\Vinoteca.csproj.GenerateResource.cache
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\obj\Debug\Vinoteca.csproj.CoreCompileInputs.cache
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\bin\Debug\Vinoteca.exe.config
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\bin\Debug\Vinoteca.exe
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\bin\Debug\Vinoteca.pdb
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\obj\Debug\Vinoteca.exe
+C:\Users\geron\Desktop\Proyectos\C#\Vinoteca\obj\Debug\Vinoteca.pdb
